@@ -7,7 +7,7 @@ github: https://github.com/TakumaMochizuki
 2. Java
 
 # Project History
-1. Social Community Chat App version 2.X
+1. [Social Community Chat App version ~ 2.X](https://play.google.com/store/apps/details?id=com.project.iwantapp&hl=zh_TW)
     - SmartFoxService
 2. Third Party Payment version 1
 3. DRAMOT+ (For user read drama, now not in Google Play)
