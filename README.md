@@ -37,5 +37,8 @@ github: https://github.com/TakumaMochizuki
 2. Slack
 3. Trello
 
-## Library
+## About Design
+1. Zeplin(Beta)
+
+## About Library
 1. jcenter
