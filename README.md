@@ -2,7 +2,7 @@
 
 github: https://github.com/TakumaMochizuki
 
-# Skills
+## Skills
 ### Program Language
 1. Android
 2. Java
@@ -12,7 +12,7 @@ github: https://github.com/TakumaMochizuki
 2. Japanese(level 3, but now is level 4, level 1 is top.)
 3. English(pool)
 
-# Project History
+## Project History
 1. [iWant (Social Community Chat App version ~ 2.X)](https://play.google.com/store/apps/details?id=com.project.iwantapp&hl=zh_TW)
     - SmartFoxService
     
@@ -39,7 +39,7 @@ github: https://github.com/TakumaMochizuki
     
 8. Dramaster(Use Material Design, On the make)
 
-# Tools
+## Tools
 
 ### IDE
 1. eclipse IDE
@@ -72,7 +72,7 @@ github: https://github.com/TakumaMochizuki
 3. Crashlytics
 
 
-# Follow and predict to learn
+## Follow and predict to learn
 ### Game
 1. Unity
 2. Unreal
@@ -90,7 +90,7 @@ github: https://github.com/TakumaMochizuki
 1. Oculus
 2. VR
 
-# Interest
+## Interest
 1. Game Maker
 2. Education
 3. Training
