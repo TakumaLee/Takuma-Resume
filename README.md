@@ -22,23 +22,34 @@ github: https://github.com/TakumaMochizuki
 
 # Tools
 
-## IDE
+### IDE
 1. eclipse IDE
 2. Android Studio
 
-## Version Control
+### Version Control
 1. Git & SVN
 2. Github
 3. Bitbucket
 4. GitLab
 
-## Group Community and Mission Control
+### Group Community and Mission Control
 1. Asana
 2. Slack
 3. Trello
 
-## About Design
+### About Design
 1. Zeplin(Beta)
 
-## About Library
+### About Library
 1. jcenter
+
+### About analytics
+1. Google Analytics
+2. Flurry
+3. Crashlytics
+
+
+# Focus
+
+
+
