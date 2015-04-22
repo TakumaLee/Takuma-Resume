@@ -1,5 +1,7 @@
 # Takuma-Resume
 
+![](https://avatars0.githubusercontent.com/u/5550100?v=3&u=9aef75e00006088430fc60d11786382372890773&s=140)
+
 github: https://github.com/TakumaMochizuki
 
 ## Skills
