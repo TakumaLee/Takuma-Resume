@@ -22,7 +22,7 @@ github: https://github.com/TakumaMochizuki
 5. P2P App version 1(Use Material Design)
     - P2PTunnel
     - jetty server
-    - 
+    
 6. Advertisement SDK Project
     - Admob
     - Mopub
