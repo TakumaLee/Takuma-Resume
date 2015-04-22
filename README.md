@@ -75,4 +75,8 @@ github: https://github.com/TakumaMochizuki
 1. Oculus
 2. VR
 
+# Interest
+1. Game Maker
+2. Education
+3. Training
 
