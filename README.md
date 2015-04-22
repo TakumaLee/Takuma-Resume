@@ -49,7 +49,22 @@ github: https://github.com/TakumaMochizuki
 3. Crashlytics
 
 
-# Focus
+# Focus Platform
+### Game
+1. Unity
+2. Unreal
+3. Live2D
 
+### Language
+1. Objective-C
+2. Swift
+3. Ruby on Rails
+4. Node.js
+5. ReactJS
+6. D3js
+ 
+### Future
+1. Oculus
+2. VR
 
 
