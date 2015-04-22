@@ -15,10 +15,14 @@ github: https://github.com/TakumaMochizuki
 # Project History
 1. [iWant (Social Community Chat App version ~ 2.X)](https://play.google.com/store/apps/details?id=com.project.iwantapp&hl=zh_TW)
     - SmartFoxService
+    
 2. Third Party Payment version 1
+
 3. DRAMOT+ (For user read drama, now not in Google Play)
+
 4. SIP project
     - Linphone(no change to this version)
+    
 5. P2P App version 1(Use Material Design)
     - P2PTunnel
     - jetty server
@@ -63,7 +67,7 @@ github: https://github.com/TakumaMochizuki
 3. Crashlytics
 
 
-# Focus Platform
+# Follow and predict to learn
 ### Game
 1. Unity
 2. Unreal
