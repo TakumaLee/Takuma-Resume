@@ -4,6 +4,12 @@
 
 github: https://github.com/TakumaMochizuki
 
+
+
+## Job
+1. 愛旺軟體行銷有限公司（Android Developer)
+2. CHOCOLABS - 歐酷網路（Android Developer)
+
 ## Skills
 ### Program Language
 1. Android
