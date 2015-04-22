@@ -36,6 +36,7 @@ github: https://github.com/TakumaMochizuki
     
 7. AccountManager(Use Material Design, On the make)
     - use notification
+    
 8. Dramaster(Use Material Design, On the make)
 
 # Tools
@@ -43,6 +44,10 @@ github: https://github.com/TakumaMochizuki
 ### IDE
 1. eclipse IDE
 2. Android Studio
+
+### Shell
+1. iTerm
+2. zsh
 
 ### Version Control
 1. Git & SVN
