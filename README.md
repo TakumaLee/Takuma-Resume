@@ -3,8 +3,14 @@
 github: https://github.com/TakumaMochizuki
 
 # Skills
+### Program Language
 1. Android
 2. Java
+
+### Language
+1. Chinese
+2. Japanese(level 3, but now is level 4, level 1 is top.)
+3. English(pool)
 
 # Project History
 1. [iWant (Social Community Chat App version ~ 2.X)](https://play.google.com/store/apps/details?id=com.project.iwantapp&hl=zh_TW)
@@ -63,7 +69,7 @@ github: https://github.com/TakumaMochizuki
 2. Unreal
 3. Live2D
 
-### Language
+### Program Language
 1. Objective-C
 2. Swift
 3. Ruby on Rails
