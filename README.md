@@ -45,7 +45,7 @@ github: https://github.com/TakumaMochizuki
 7. AccountManager(Use Material Design, On the make)
     - use notification
     
-8. Dramaster(Use Material Design, On the make)
+8. Dramaster(Use Material Design, On the make, recent will shelves)
 
 ## Tools
 
