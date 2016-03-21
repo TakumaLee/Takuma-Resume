@@ -10,6 +10,7 @@
 - [Android Developer讀書會](https://www.facebook.com/groups/523386591081376/) 主辦者.
 - 3 year+ experience in mobile application development.
 - Interesting training developer.
+- Use Clean Code Concept and Design Pattern for project.
 
 
 
